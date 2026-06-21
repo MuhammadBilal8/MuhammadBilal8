@@ -46,12 +46,10 @@ I craft production-ready mobile products with strong architecture, clean code, a
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🏥 Telehealth Recovery App](https://github.com/buildwith-Usman/telehealth-recovery-app-public) | Remote consultations, appointment management & patient-doctor interactions | Flutter · Clean Arch |
-| [🔖 Healthcare Token Management](https://github.com/buildwith-Usman/healthcare-token-management-app-public) | Token & appointment management for doctors, patients & clinic staff | Flutter · GetX |
-| [💓 Real-time BLE Health Monitor](https://github.com/buildwith-Usman/Real-time-BLE-Health-Monitoring-Android) | IoT Android app streaming vitals over Bluetooth with analytics | Kotlin · BLE |
-| [🏋️ HomeWorkout Fitness Trainer](https://github.com/buildwith-Usman/HomeWorkout-FitnessTrainer) | Offline workout plans, exercise tracking & Google Play Billing subscriptions | Kotlin · MVVM |
-| [🎬 Video Slideshow - Clipora](https://github.com/buildwith-Usman/Video-Slide-Show-Clipora) | Video editor with custom OpenGL ES 2.0 pipeline, GLSL shaders & FFmpeg encoding | Kotlin 2.0 · OpenGL |
-| [📷 Scanly QR Scanner](https://github.com/buildwith-Usman/Scanly-QR-Code-Scanner-Generator) | QR & barcode scanner/generator with custom styling & 14-language localization | Kotlin |
+| [📷 QR Code Scanner & Generator](https://github.com/MuhammadBilal8/Scanly-QR-Code-Scanner-Generator) | QR & barcode scanner/generator with custom styling & 14-language localization | Kotlin |
+| [💓 Love Stickers](https://github.com/MuhammadBilal8/WhatsApp-Sticker-Creator-Android) | WhatsApp sticker app with 2,000+ stickers, custom sticker maker & WhatsApp integration | Android · Java |
+| [🖼️ Photo Collage](https://github.com/MuhammadBilal8/PhotoCollage-Editor-Android) | Photo collage creator with grids, frames, filters, stickers & text editing | Android · Java |
+| [📊 Expense Tracker](https://github.com/MuhammadBilal8/Pocket-Expense-Tracker) | Personal finance tracker with budgeting, custom categories, charts & offline support | Android · Java |
 
 ---
 
